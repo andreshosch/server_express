@@ -1,0 +1,37 @@
+[{
+        "title": "pelota",
+        "price": "1311.24",
+        "thumbnail": "aca va el enlace de la foto",
+        "id": 1
+    },
+    {
+        "title": "camiseta",
+        "price": "783.63",
+        "thumbnail": "aca va el enlace de la foto",
+        "id": 2
+    },
+    {
+        "title": "botines",
+        "price": "3111.74",
+        "thumbnail": "aca va el enlace de la foto",
+        "id": 3
+    },
+    {
+        "title": "zapatillas",
+        "price": "12654,87",
+        "thumbnail": "aca va el enlace de la foto",
+        "id": 4
+    },
+    {
+        "title": "top deportivo",
+        "price": "678.6",
+        "thumbnail": "aca va el enlace de la foto",
+        "id": 5
+    },
+    {
+        "title": "buzo",
+        "price": "321.24",
+        "thumbnail": "aca va el enlace de la foto",
+        "id": 6
+    }
+]
